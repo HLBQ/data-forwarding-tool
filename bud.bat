@@ -1,0 +1,1 @@
+pyinstaller -F -w -i icon.ico forwarder_gui.py

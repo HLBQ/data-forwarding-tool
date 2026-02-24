@@ -100,12 +100,9 @@
 
 ## 打包版本
 
-程序已使用 PyInstaller 打包为可执行文件，位于 `dist/` 目录中。打包版本包含所有依赖，无需安装Python环境即可运行。
+程序已打包为可执行文件，无需安装Python环境即可运行。
+如果你想自己打包，可以运行脚本bud.bat
 
-打包命令参考：
-```
-pyinstaller --onefile --windowed --icon=icon.ico forwarder_gui.py
-```
 
 ## 注意事项
 

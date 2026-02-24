@@ -17,6 +17,7 @@
 
 ### 使用打包版本
 
+- [Windows 版](https://github.com/HLBQ/data-forwarding-tool/releases/tag/1.0)
 
 
 ### 从源代码运行
